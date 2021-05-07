@@ -1,0 +1,4 @@
+create table datafactory(
+data_id int,
+data_name string
+)
