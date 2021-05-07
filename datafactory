@@ -2,3 +2,5 @@ create table datafactory(
 data_id int,
 data_name string
 )
+
+insert into datafactory values(111,adfsource)
