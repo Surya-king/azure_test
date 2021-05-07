@@ -4,3 +4,5 @@ data_name string
 )
 
 insert into datafactory values(111,adfsource)
+insert into datafactory values(222,adftarget)
+insert into datafactory values(333,adftarget) 
